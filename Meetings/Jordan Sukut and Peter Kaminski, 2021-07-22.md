@@ -2,10 +2,19 @@
 
 ## Topics
 
-- Today's OGM+Lionsberg call (soon to be [[The Meta Project]] call)
+- Today's OGM+Lionsberg call (soon to be [[Meta Project]] call)
+	- Project Plan Hypothesis
 - [[Massive Human Intelligence]] status
 - Realigning Food Systems status
-- CSC Mattermost-to-GRC Slack message bridge project
+- Realigning Food Systems-to-GRC (Mattermost-Slack) message bridge project
+	- start of [[Meta Project Bridge Project]]
+- Get Jordan started on "private-jordan-pete" wiki
+- Create a [[Meta Project]] wiki! :-)
+- [[Meta Project Naming]]
+- (re-)founding on rock of reality
+	- we have to know what we know or we die
+	- chatbot integration
+	- making sense of language
 
 ## Project Plan Hypothesis
 
@@ -19,15 +28,6 @@ Also see: [[Everything Is A Project]]
 - How will we account, close the loop, and learn?
 	- At the end of the project, what resources were estimated? What resources were required?
 - What’s next
-
-## Massive Wiki High-Level Plan
-
-## Massive Wiki Community Wikis
-
-- "marcom" site
-- user community
-- developer community
-- some kind of knowledgebase?
 
 ## Massive Wiki Organization Projects
 
